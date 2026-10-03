@@ -63,7 +63,7 @@ Obviously, everything won't be perfect, and I'm probably going to make mistakes 
 - **Status:** In development and testing
 - **Current files:** 106
 - **Type:** Personal project
-- **Developer:** Student
+- **Developer:** lilbossgrim-dev
 - **Name:** Private for now
 
 ## 📦 Availability
